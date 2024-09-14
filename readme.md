@@ -111,7 +111,7 @@ console.log("Hello world");
 </br>
 
 ## image
-![Image](./image/door.WEBP)
+![Image](./image/door.webp)
 
 </br>
 
